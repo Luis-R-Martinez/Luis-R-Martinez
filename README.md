@@ -1,7 +1,7 @@
 <!-- ==================== BANNER ==================== -->
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c53beeda-6db1-49cd-9ddb-f9019af2a5a8" width="100%" alt="Banner Luis" />
+  <img src="https://github.com/user-attachments/assets/c53beeda-6db1-49cd-9ddb-f9019af2a5a8" width="100%" height = "650px" alt="Banner Luis" />
 </p>
 
 <h1 align="center">¡Hola! Soy Luis R. Martínez</h1>
